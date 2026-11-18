@@ -50,7 +50,7 @@ The application has two main features:
 Streamlit/
 │
 ├── Streamlit_App.py
-├── sentiment.ipynb
+├── hugging_face.ipynb
 ├── requirements.txt
 └── .gitignore
 ```
